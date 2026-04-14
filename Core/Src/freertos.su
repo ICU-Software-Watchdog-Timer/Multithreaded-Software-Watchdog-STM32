@@ -1,0 +1,6 @@
+../Core/Src/freertos.c:15:6:MicTask	16	static
+../Core/Src/freertos.c:23:6:AccelTask	16	static
+../Core/Src/freertos.c:32:6:ADCTask	16	static
+../Core/Src/freertos.c:41:6:UARTTask	16	static
+../Core/Src/freertos.c:49:6:WatchdogTask	40	static
+../Core/Src/freertos.c:75:6:MX_FREERTOS_Init	16	static
